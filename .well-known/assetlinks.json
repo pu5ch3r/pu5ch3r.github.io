@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nerdsunited.fivelettergame",
+      "sha256_cert_fingerprints": [
+        "AF:83:9E:8F:CA:05:7A:0A:79:9B:E3:C7:9E:C3:B7:92:D6:94:38:21:04:5C:1F:5B:14:F5:EC:EF:6E:EF:ED:0F",
+        "7B:7E:22:F3:9F:7F:A6:8A:D0:EC:C3:72:96:1F:4D:79:1A:92:AD:43:F4:E5:F4:71:ED:09:B8:28:68:30:A3:3C"
+      ]
+    }
+  }
+]
